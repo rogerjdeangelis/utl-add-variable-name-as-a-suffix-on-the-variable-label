@@ -11,6 +11,9 @@
   The new label will be
 
     DATE         Order Date (DATE)
+    
+    github
+    https://github.com/rogerjdeangelis/utl-add-variable-name-as-a-suffix-on-the-variable-label
 
   Two Solutions
 
